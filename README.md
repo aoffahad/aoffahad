@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **aoffahad@gmail.com**
 
-- 📄 Know about my experiences [My CV]([https://drive.google.com/drive/folders/1AsNQ723ENbEBOcuToag4VaVmtcDQ7avY?usp=sharing](https://drive.google.com/file/u/1/d/1T0GnERlBNLitG4sYsoA17N_oNlvToynF/view?usp=drivesdk&pli=1))
+- 📄 Know about my experiences  ([My CV](https://drive.google.com/file/u/1/d/1T0GnERlBNLitG4sYsoA17N_oNlvToynF/view?usp=drivesdk&pli=1))
 
 - ⚡ Fun fact **I think I am more passionate and take my work as a responsibility.**
 
