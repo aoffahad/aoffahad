@@ -9,24 +9,23 @@
 
 - 🔭 I’m currently working on [Hello-Doctor](https://github.com/aoffahad/Hello-Doctor)
 
-- 🌱 I’m currently learning **Full Stack Web Developing**
+- 🌱 I’m currently learning **Flutter || Swift**
 
 - 👯 I’m looking to collaborate on [Autralian-Rain-Prediction-ML](https://github.com/aoffahad/Autralian-Rain-Prediction-ML)
 
 - 🤝 I’m looking for help with [TicTacToeGameAILab](https://github.com/aoffahad/TicTacToeGameAILab)
 
-- 👨‍💻 All of my projects are available at [http://fahadbd.rf.gd/](http://fahadbd.rf.gd/)
-
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 💬 Ask me about **Flutter & Swift**
 
 - 📫 How to reach me **aoffahad@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1AsNQ723ENbEBOcuToag4VaVmtcDQ7avY?usp=sharing](https://drive.google.com/drive/folders/1AsNQ723ENbEBOcuToag4VaVmtcDQ7avY?usp=sharing)
+- 📄 Know about my experiences [My CV]([https://drive.google.com/drive/folders/1AsNQ723ENbEBOcuToag4VaVmtcDQ7avY?usp=sharing](https://drive.google.com/file/u/1/d/1T0GnERlBNLitG4sYsoA17N_oNlvToynF/view?usp=drivesdk&pli=1))
 
 - ⚡ Fun fact **I think I am more passionate and take my work as a responsibility.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://github.com/aoffahad" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="@aof_fahad" height="30" width="40"/></a>
 <a href="https://twitter.com/aof_fahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aof_fahad" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/aoffahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aoffahad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16449972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16449972" height="30" width="40" /></a>
